@@ -7,7 +7,7 @@ version: 2
 
 defaults: &defaults
   environment:
-    DOCKER_IMAGE_NAME: apigeeks/nexus3-keycloak-plugin
+    DOCKER_IMAGE_NAME: apigeeks/a6s-nexus3-keycloak-plugin
     
   working_directory: ~/repo
   docker:
